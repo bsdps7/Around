@@ -1,0 +1,13 @@
+
+splash.png
+size: 1024,512
+format: RGBA8888
+filter: MipMapLinearNearest,MipMapLinearNearest
+repeat: none
+splash_logo
+  rotate: false
+  xy: 2, 2
+  size: 842, 326
+  orig: 842, 326
+  offset: 0, 0
+  index: -1

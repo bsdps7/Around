@@ -1,0 +1,223 @@
+
+gui.png
+size: 4096,1024
+format: RGBA8888
+filter: MipMapLinearNearest,MipMapLinearNearest
+repeat: none
+gui_btn_cancel
+  rotate: false
+  xy: 1336, 480
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+gui_btn_cancel_shadow
+  rotate: false
+  xy: 913, 498
+  size: 234, 234
+  orig: 234, 234
+  offset: 0, 0
+  index: -1
+gui_btn_gift
+  rotate: false
+  xy: 3591, 481
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1
+gui_btn_gift_shadow
+  rotate: false
+  xy: 2966, 668
+  size: 354, 354
+  orig: 354, 354
+  offset: 0, 0
+  index: -1
+gui_btn_help
+  rotate: false
+  xy: 1149, 405
+  size: 185, 185
+  orig: 185, 185
+  offset: 0, 0
+  index: -1
+gui_btn_help_shadow
+  rotate: false
+  xy: 3618, 728
+  size: 294, 294
+  orig: 294, 294
+  offset: 0, 0
+  index: -1
+gui_btn_pause
+  rotate: false
+  xy: 3715, 354
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+gui_btn_pause_shadow
+  rotate: false
+  xy: 3838, 492
+  size: 234, 234
+  orig: 234, 234
+  offset: 0, 0
+  index: -1
+gui_btn_resume
+  rotate: false
+  xy: 2840, 414
+  size: 249, 249
+  orig: 249, 249
+  offset: 0, 0
+  index: -1
+gui_btn_resume_shadow
+  rotate: false
+  xy: 552, 373
+  size: 359, 359
+  orig: 359, 359
+  offset: 0, 0
+  index: -1
+gui_btn_shop
+  rotate: false
+  xy: 3528, 291
+  size: 185, 185
+  orig: 185, 185
+  offset: 0, 0
+  index: -1
+gui_btn_shop_shadow
+  rotate: false
+  xy: 3322, 728
+  size: 294, 294
+  orig: 294, 294
+  offset: 0, 0
+  index: -1
+gui_btn_soundoff
+  rotate: false
+  xy: 1149, 592
+  size: 185, 185
+  orig: 185, 185
+  offset: 0, 0
+  index: -1
+gui_btn_soundoff_shadow
+  rotate: false
+  xy: 2248, 369
+  size: 294, 294
+  orig: 294, 294
+  offset: 0, 0
+  index: -1
+gui_btn_soundon
+  rotate: false
+  xy: 3341, 291
+  size: 185, 185
+  orig: 185, 185
+  offset: 0, 0
+  index: -1
+gui_btn_soundon_shadow
+  rotate: false
+  xy: 2544, 369
+  size: 294, 294
+  orig: 294, 294
+  offset: 0, 0
+  index: -1
+gui_gem
+  rotate: false
+  xy: 3914, 732
+  size: 45, 90
+  orig: 45, 90
+  offset: 0, 0
+  index: -1
+gui_gem_shadow
+  rotate: false
+  xy: 3914, 824
+  size: 153, 198
+  orig: 153, 198
+  offset: 0, 0
+  index: -1
+gui_shop_gem
+  rotate: false
+  xy: 1478, 717
+  size: 30, 60
+  orig: 30, 60
+  offset: 0, 0
+  index: -1
+gui_shop_gem_shadow
+  rotate: false
+  xy: 1336, 607
+  size: 140, 170
+  orig: 140, 170
+  offset: 0, 0
+  index: -1
+gui_shop_selected
+  rotate: false
+  xy: 3091, 418
+  size: 248, 248
+  orig: 248, 248
+  offset: 0, 0
+  index: -1
+gui_shop_selected_shadow
+  rotate: false
+  xy: 2607, 665
+  size: 357, 357
+  orig: 357, 357
+  offset: 0, 0
+  index: -1
+gui_shop_unselected
+  rotate: false
+  xy: 3341, 478
+  size: 248, 248
+  orig: 248, 248
+  offset: 0, 0
+  index: -1
+gui_shop_unselected_shadow
+  rotate: false
+  xy: 2248, 665
+  size: 357, 357
+  orig: 357, 357
+  offset: 0, 0
+  index: -1
+popup_help_left_finger
+  rotate: false
+  xy: 1512, 358
+  size: 366, 664
+  orig: 366, 664
+  offset: 0, 0
+  index: -1
+popup_help_right_finger
+  rotate: false
+  xy: 1880, 358
+  size: 366, 664
+  orig: 366, 664
+  offset: 0, 0
+  index: -1
+popup_help_tap
+  rotate: false
+  xy: 2, 184
+  size: 548, 548
+  orig: 548, 548
+  offset: 0, 0
+  index: -1
+title_main
+  rotate: false
+  xy: 2, 2
+  size: 870, 180
+  orig: 870, 180
+  offset: 0, 0
+  index: -1
+title_main_shadow
+  rotate: false
+  xy: 2, 734
+  size: 978, 288
+  orig: 978, 288
+  offset: 0, 0
+  index: -1
+title_shop
+  rotate: false
+  xy: 552, 236
+  size: 420, 135
+  orig: 420, 135
+  offset: 0, 0
+  index: -1
+title_shop_shadow
+  rotate: false
+  xy: 982, 779
+  size: 528, 243
+  orig: 528, 243
+  offset: 0, 0
+  index: -1

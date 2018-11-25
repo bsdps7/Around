@@ -1,0 +1,96 @@
+
+obstacles.png
+size: 4096,4096
+format: RGBA8888
+filter: MipMapLinearNearest,MipMapLinearNearest
+repeat: none
+obstacle_02
+  rotate: false
+  xy: 1364, 76
+  size: 1286, 1286
+  orig: 1286, 1286
+  offset: 0, 0
+  index: -1
+obstacle_02_shadow
+  rotate: false
+  xy: 2, 2
+  size: 1360, 1360
+  orig: 1360, 1360
+  offset: 0, 0
+  index: -1
+obstacle_03
+  rotate: false
+  xy: 2726, 1438
+  size: 1286, 1286
+  orig: 1286, 1286
+  offset: 0, 0
+  index: -1
+obstacle_03_shadow
+  rotate: false
+  xy: 2727, 2726
+  size: 1360, 1360
+  orig: 1360, 1360
+  offset: 0, 0
+  index: -1
+obstacle_04
+  rotate: false
+  xy: 2652, 76
+  size: 1286, 1286
+  orig: 1286, 1286
+  offset: 0, 0
+  index: -1
+obstacle_04_shadow
+  rotate: false
+  xy: 2, 2726
+  size: 1361, 1360
+  orig: 1361, 1360
+  offset: 0, 0
+  index: -1
+obstacle_06_shadow
+  rotate: false
+  xy: 1365, 2726
+  size: 1360, 1360
+  orig: 1360, 1360
+  offset: 0, 0
+  index: -1
+obstacle_08_shadow
+  rotate: false
+  xy: 2, 1364
+  size: 1360, 1360
+  orig: 1360, 1360
+  offset: 0, 0
+  index: -1
+obstacle_09_shadow
+  rotate: false
+  xy: 1364, 1364
+  size: 1360, 1360
+  orig: 1360, 1360
+  offset: 0, 0
+  index: -1
+
+obstacles2.png
+size: 4096,2048
+format: RGBA8888
+filter: MipMapLinearNearest,MipMapLinearNearest
+repeat: none
+obstacle_06
+  rotate: false
+  xy: 2, 2
+  size: 1286, 1286
+  orig: 1286, 1286
+  offset: 0, 0
+  index: -1
+obstacle_08
+  rotate: false
+  xy: 1290, 2
+  size: 1286, 1286
+  orig: 1286, 1286
+  offset: 0, 0
+  index: -1
+obstacle_09
+  rotate: false
+  xy: 2578, 2
+  size: 1286, 1286
+  orig: 1286, 1286
+  offset: 0, 0
+  index: -1
